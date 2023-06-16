@@ -1,2 +1,2 @@
-var name = prompt("Masukkan nama kamu");
+var name = prompt("Enter your name");
 document.getElementById("nama").innerText = name;
